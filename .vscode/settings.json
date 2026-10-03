@@ -1,0 +1,5 @@
+{
+  "python.analysis.autoSearchPaths": false,
+  "python.analysis.extraPaths": ["${workspaceFolder}/src"],
+  "python.analysis.autoImportCompletions": true
+}
